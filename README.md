@@ -1,9 +1,13 @@
-# free-ai-homework-helper
-AI Homework Helper – Get Free Homework Help Instantly!
-With Our Free AI Homework Helper, No sign-up required. Just type your question and get answers instantly.
+# AIHomeworkHelper
 
+Welcome to AIHomeworkHelper, your go-to platform for AI-powered academic assistance at [AIHomeworkHelper.org](https://aihomeworkhelper.org/). We provide tools for math, chemistry, and more.
 
+## Our Mission
+Empowering students with AI-driven solutions for homework and learning.
 
-Get Instant Homework Help – Free at no cost!
+## Key Features
+- Free AI homework tools
+- Subjects: Math, Chemistry, Physics
+- User-friendly interface
 
-Stuck on an assignment? Our AI-powered homework solver is here to simplify your studies! Whether you need in-depth explanations, essay guidance, or quick solutions, our free academic assistant has you covered. Just enter your question or upload an image, and our AI image-based solver will provide precise answers in moments!
+[Visit our website](https://aihomeworkhelper.org) | [Contact us](https://aihomeworkhelper.org/contact-us/)
